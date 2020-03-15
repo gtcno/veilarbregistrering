@@ -69,6 +69,11 @@
         </dependency>
         <dependency>
             <groupId>no.nav.tjenestespesifikasjoner</groupId>
+            <artifactId>udi-personstatus-v1</artifactId>
+            <version>1.2018.11.06-01.45-c7f37fed0647</version>
+        </dependency>
+        <dependency>
+            <groupId>no.nav.tjenestespesifikasjoner</groupId>
             <artifactId>nav-arbeidsforhold-v3-tjenestespesifikasjon</artifactId>
             <version>1.2019.09.25-00.21-49b69f0625e0</version>
         </dependency>
